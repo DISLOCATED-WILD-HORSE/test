@@ -1,3 +1,3 @@
-# test
+﻿# test
 测试
-love study
+love study!love life!
